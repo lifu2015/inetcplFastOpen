@@ -28,7 +28,7 @@ In order to quickly set up windows LAN agent or your can execute on the command 
    Modem Properties           |    control modem.cpl
    Mouse Properties          |     control main.cpl
    Multimedia Properties     |     control mmsys.cpl
-   Network Properties     |       control netcpl.cpl NOTE: In Windows NT 4.0, Network properties is Ncpa.cpl, not Netcpl.cpl  
+   Network Properties     |       control netcpl.cpl 
    Password Properties      |      control password.cpl
    PC Card                  |      control main.cpl pc card (PCMCIA)
    Power Management (Windows 95)|  control main.cpl power
