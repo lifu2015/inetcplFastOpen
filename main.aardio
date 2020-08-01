@@ -8,5 +8,5 @@ mainForm.add()
 var str = 'control inetcpl.cpl,,4';
 process(str);
 
-// mainForm.show();
+mainForm.close();
 return win.loopMessage();
