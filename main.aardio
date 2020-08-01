@@ -1,0 +1,12 @@
+import win.ui;
+import process;
+/*DSG{{*/
+mainForm = win.form(text="inetcplFastOpen";right=199;bottom=199)
+mainForm.add()
+/*}}*/
+
+var str = 'control inetcpl.cpl,,4';
+process(str);
+
+// mainForm.show();
+return win.loopMessage();
